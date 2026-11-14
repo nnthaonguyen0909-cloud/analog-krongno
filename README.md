@@ -5,7 +5,7 @@ A case study in the Krong No volcanic field (Lam Dong Province, Vietnam).
 NASA Space Apps Challenge 2026: Identify Earth Locations that Analog the Permanent Moon Base Locations and Mars.
 
 ## Research Question:
-How closely does the terrain of the Krông Nô volcanic field resemble lava-tube pit and skylight sites at Marius Hills (Moon) and Arsia Mons (Mars), in terms of slope and surface roughness?
+How closely does the terrain of the Krong No volcanic field resemble lava-tube pit and skylight sites at Marius Hills (Moon) and Arsia Mons (Mars), in terms of slope and surface roughness?
 
 ## Hypothesis:
 The terrain similarity between Krông Nô and the Moon/Mars sites is greater than the similarity between a non-volcanic control region (Mekong Delta) and those same sites.
@@ -21,7 +21,7 @@ Lava tubes are candidate locations for permanent bases because they may offer na
 Coordinates are listed in [`sites.csv`](sites.csv).
 | Body | Site | Feature type |
 |---|---|---|
-| Earth | Krông Nô (Nâm Kar, Nâm B'Lang, lava caves) | Cinder cones, lava tubes |
+| Earth | Krong No (Nam Kar, Nam B'Lang, lava caves) | Cinder cones, lava tubes |
 | Moon | Marius Hills Pit | Mare pit / lava-tube skylight candidate |
 | Mars | Arsia Mons region | Lava-tube skylight candidates |
 | Earth (control) | Mekong Delta | Non-volcanic alluvial plain |
