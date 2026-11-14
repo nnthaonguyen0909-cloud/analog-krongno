@@ -1,12 +1,10 @@
-# Terrain Analogs for Lunar and Martian Lava-Tube Sites
+#Terrain Analogs for Lunar and Martian Lava-Tube Sites.
 
-A case study in the Krong No volcanic field (Lam Dong Province, Vietnam)
+A case study in the Krong No volcanic field (Lam Dong Province, Vietnam).
 
-NASA Space Apps Challenge 2026: *Identify Earth Locations that Analog the Permanent Moon Base Locations and Mars*
+NASA Space Apps Challenge 2026: Identify Earth Locations that Analog the Permanent Moon Base Locations and Mars.
 
-## Research Question
-
-How closely does the terrain of the Krông Nô volcanic field resemble lava-tube pit and skylight sites at Marius Hills (Moon) and Arsia Mons (Mars), in terms of slope and surface roughness?
+#Research Question: How closely does the terrain of the Krông Nô volcanic field resemble lava-tube pit and skylight sites at Marius Hills (Moon) and Arsia Mons (Mars), in terms of slope and surface roughness?
 
 ## Hypothesis
 
