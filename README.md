@@ -18,7 +18,7 @@ Coordinates are listed in [`sites.csv`](sites.csv).
 
 | **Body** | **Site** | **Feature type** |
 |---|---|---|
-| Earth | Krông Nô (Nâm Kar, Nâm B'Lang, lava caves) | Cinder cones, lava tubes |
+| Earth | Krong No (Nam Kar, Nam B'Lang, lava caves) | Cinder cones, lava tubes |
 | Moon | Marius Hills Pit | Mare pit / lava-tube skylight candidate |
 | Mars | Arsia Mons, tube-fed flow F | Lava-tube skylight candidates |
 | Earth (control) | Mekong Delta | Non-volcanic alluvial plain |
