@@ -8,7 +8,7 @@ A case study in the Krong No volcanic field (Lam Dong Province, Vietnam)
 Do any parts of the Krong No volcanic field resemble lava-tube pit and skylight terrain at Marius Hills (Moon) and Arsia Mons (Mars), in terms of slope and surface roughness?
 
 ## Hypothesis:
-Some Krông Nô terrain is closer to the Moon/Mars sites than the best-matching terrain in a non-volcanic control region (Mekong Delta).
+Some Krong No terrain is closer to the Moon/Mars sites than the best-matching terrain in a non-volcanic control region (Mekong Delta).
 
 ## Why It Matters:
 Lava tubes are candidate locations for permanent bases because they may offer natural shelter. A terrain analog on Earth could support rover testing and lava-tube survey practice.
