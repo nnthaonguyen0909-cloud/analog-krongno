@@ -69,4 +69,4 @@ Mars: the Arsia Mons lava plain is smoother than any Krong No window, and the fl
 ## Reproducibility:
 The analysis notebook is in [`notebooks/analog_krongno.ipynb`](notebooks/analog_krongno.ipynb). DEM files are not stored in this repository and are downloaded from the sources above.
 
-## Author: Nguyen Ngoc Thao Nguyen, NASA Space Apps Challenge 2026.
+## Author: Nguyen Ngoc Thao Nguyen, Truong Ngoc Duong, SP CE, NASA Space Apps Challenge 2026.
