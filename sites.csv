@@ -4,5 +4,5 @@ KrongNo_NamBLang,earth,12.533,107.883,Google Earth (manual pin),medium
 KrongNo_center,earth,12.396,107.931,Midpoint of the two volcanoes,derived
 KrongNo_caves,earth,,,Google Earth (to be added),low
 Marius_Pit,moon,14.0917,303.2299,LROC Pits Atlas,high
-Arsia_skylight,mars,,,Cushing et al. 2012 (Table 1),
+Arsia_flowF,mars,-3.2,236.2,Cushing 2012 Table 1 (flow F; verify),medium
 Control_MekongDelta,earth,10.5,105.5,Author-selected control,control
